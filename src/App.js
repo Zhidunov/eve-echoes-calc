@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import SiderDemo from './Main' 
+import SiderDemo from './components/LeftMenu/Menu' 
 
 function App() {
   return (
